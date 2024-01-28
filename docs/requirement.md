@@ -22,9 +22,9 @@ nav_order: 2
 ## Client's feedbacks
 The aforementioned requirements have more or less been met by our team and have been confirmed by the client since our client has been working on this project with us very tentatively the past months. Each of the requirements have been reviewed and tested to ensure that it is up to the standard set by our client. 
 
-| head1        | head two          | three |
+| Identifier        | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| ok           | The data must also be accessible to end-users  | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
