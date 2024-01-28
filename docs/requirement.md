@@ -4,14 +4,17 @@ title: Requirement analysis and specification
 nav_order: 2 
 ---
 ## Functional requirements
-| Identifier    | User requirement                                                   | Technical description |
-|:------------- |:---------------------------                                        |:------|
+
+| Identifier    | User requirement| Technical description |
+|:-------------|:---------------------------|:------|
 | FR1           | Survey data must be secured                                        | All data must be properly encrypted and only granted access to authorized personnel  |
 | FR2           |  The data must also be accessible to end-users                     | Register users and grant them access to the data that they request |
 | FR3           |   Data from previous records should be made accessible             | Migrating the data from VinMec medical records onto the database for our system   |
 | FR4           | Survey records for the same purposes need to be linked in some way | Correspond the patient’s data with a corresponding encrypted user ID  |
 | FR5           |The features need to be easily utilized by end-users                | The system must have an intuitive search and filter for its features  |
+
 ## Non-functional requirements
+
 | Identifier        | User requirement          | Technical description |
 |:-------------|:------------------|:------|
 | NFR1           | The software should be fast and responsive |Software should respond within a reasonable time |
@@ -24,7 +27,7 @@ The aforementioned requirements have more or less been met by our team and have 
 
 | Identifier        | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | The data must also be accessible to end-users  | nice  |
+| ok           | The data must also be accessible to end-users  |All data must be properly encrypted and only granted access to authorized personnel |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
