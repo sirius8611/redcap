@@ -14,6 +14,7 @@ In this milestone, our task includes:
 * Requirements collection
 * Review redcap source code
 We holds weekly meetings with our customers. Here is the link to all the meeting minutes: [Meeting minutes](https://docs.google.com/document/d/1vH92-zz4v3I6-A21AZLQ2RrcSLpsROfHmfIq_lt-WxM/edit)
+
 ## Milestone 2: Core features and implementation 
 Duration: From 8 Oct, 2023 to 29 Oct, 2023
 In this milestone, our task includes: 
@@ -21,13 +22,15 @@ In this milestone, our task includes:
 * Feature testing 
 * Revise end-user requirement 
 * Deploy into Vinuniversity server 
+
 ## Milestone 3: Testing deployment 
 Duration: From 8 Oct, 2023 to 29 Oct, 2023
 In this milestone, our task includes: 
 * Feature testing on Vinuniversity's server 
 * Initial pentest discussion 
 * Mid semester presentation 
-* UI/UX cusomization 
+* UI/UX cusomization
+
 ## Milestone 4: Finalize  
 Duration: From 8 Oct, 2023 to 29 Oct, 2023
 In this milestone, our task includes: 
