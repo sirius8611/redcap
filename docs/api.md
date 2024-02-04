@@ -1,3 +1,8 @@
+---
+layout: default
+title: API Documentation 
+nav_order: 7
+---
 # API Usage
 
 REDCap is a fairly complete program, which comes with an extensive API and API documentation. In order to check out the API documentation, you can visit the link:
