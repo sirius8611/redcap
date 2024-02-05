@@ -5,6 +5,7 @@ nav_order: 8
 ---
 ## Introduction
 This is the visualization tool that allows Redcap admins and researchers to easily manage their data instead of the default Redcap. 
+
 Link: [Prettycap](http://sirius8611.pythonanywhere.com)
 ## Functionality
 * Allow users to input their project token and receive beautified data
