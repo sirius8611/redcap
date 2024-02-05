@@ -12,7 +12,7 @@ Link: [Prettycap](http://sirius8611.pythonanywhere.com)
 * Generate links for record when needed
 
 ## Web app preview
-![](../image/pretty1.png)
-![](../image/pretty2.png)
-![](../image/pretty3.png)
-![](../image/pretty4.png)
+![](../images/pretty1.png)
+![](../images/pretty2.png)
+![](../images/pretty3.png)
+![](../images/pretty4.png)
