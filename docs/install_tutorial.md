@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project diagrams 
+title: Installation tutorial 
 nav_order: 7
 ---
 # Install and configure the REDCap web application
