@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prettycap 
-nav_order: 8
+nav_order: 9
 ---
 ## Introduction
 This is the visualization tool that allows Redcap admins and researchers to easily manage their data instead of the default Redcap. 
